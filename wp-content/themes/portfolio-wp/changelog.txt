@@ -1,0 +1,52 @@
+*** Portfolio WP Changelog ***
+
+2024-03-07 - Version 1.0.0
+* Initial beta release
+
+2024-03-14 - Version 1.0.1
+* Bump version for WP.org trac update
+
+2024-03-18 - Version 1.0.2
+* Added copyright info to functions file
+* Updated copyright info in README file
+* Fixed PHP Warnings in auto review
+
+2024-03-25 - Version 1.0.3
+* Cleaned up PHPCS errors and warnings
+* Added awards patterns
+* Removed duplicate patterns
+* Removed Sidebar page template
+* Replaced default page template with Blank Canvas template style
+* Removed Blank Canvas page template
+* Added missing local assets
+* Style updates
+
+2024-03-26 - Version 1.0.4
+* Changed theme name from PortfolioWP to Portfolio WP
+* Added social media patterns
+* Added newsletter patterns
+* Reduced file size of large image assets
+* Updated all text domains to match
+* Style updates
+
+2024-04-04 - Version 1.0.5
+* Bumping version for re-review
+* Additional minor updates
+
+2024-04-09 - Version 1.0.6
+* Bumping version for re-review
+* Fixed core issue when enqueuing admin scripts causing deprecated warnings
+
+2024-04-19 - Version 1.0.7
+* Bumping version for re-review
+* Fixed Merlin related PHP warnings that appeared in PHP 8.1+
+
+2024-04-30 - Version 1.0.8
+* Style and template updates after importing test content
+
+2024-05-16 - Version 1.0.9
+* Updated screenshot
+* Updated theme and author URIs in stylesheet
+* Removed Merlin functionality
+* Removed updater and licensing
+* Fixed deprecation warning
